@@ -6,7 +6,7 @@
 /*   By: apita-da <apita-da@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/12/05 14:23:41 by apita-da          #+#    #+#             */
-/*   Updated: 2019/12/23 16:07:02 by apita-da         ###   ########.fr       */
+/*   Updated: 2020/02/11 17:00:09 by apita-da         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,4 +14,7 @@
 
 int		get_next_line(int fd, char **line)
 {
+	char	buff[BUFFER_SIZE + 1];
+
+	fd;
 }
