@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line.c                                    :+:      :+:    :+:   */
+/*   get_next_line_bonus.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: apita-da <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: apita-da <apita-da@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/02/19 17:49:34 by apita-da          #+#    #+#             */
-/*   Updated: 2020/02/19 18:46:01 by apita-da         ###   ########.fr       */
+/*   Created: 2020/02/19 17:46:35 by apita-da          #+#    #+#             */
+/*   Updated: 2020/02/19 18:25:51 by apita-da         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 static int	get_line(int fd, char **str, char **line, int rd)
 {

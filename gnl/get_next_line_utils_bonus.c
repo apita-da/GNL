@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: apita-da <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: apita-da <apita-da@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/02/19 18:21:38 by apita-da          #+#    #+#             */
-/*   Updated: 2020/02/19 18:21:45 by apita-da         ###   ########.fr       */
+/*   Created: 2020/02/19 17:46:14 by apita-da          #+#    #+#             */
+/*   Updated: 2020/02/19 18:25:30 by apita-da         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 char	*ft_strchr(const char *str, int c)
 {
